@@ -1,0 +1,85 @@
+﻿@using WebBanGiay.Models
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TLoaiSp>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "ListCategories";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh sách loại sản phẩm</h1>
+
+<p>
+    <a asp-action="CreateCategory">Create New</a>
+</p>
+<table class="table">
+    <thead class="table-danger">
+        <tr>
+            <th>
+             Type Products
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 1;
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            string cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            else
+            {
+            }
+        <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.Loai)
+            </td>
+            <td>
+                <a asp-action="EditCategory" asp-route-maloai="@item.MaLoai">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaLoai">Details</a> |
+                <a asp-action="DeleteCategory" asp-route-maloai="@item.MaLoai">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="product__pagination">
+
+    @Html.PagedListPager(Model,page=>Url.Action("ListCategories",new{page=page}))
+</div>
+<style>
+    .product__pagination .pagination li {
+        margin-right: 10px;
+    }
+
+    .product__pagination .pagination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .product__pagination li.active {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid #000;
+        background: #7fad39;
+        border-color: #7fad39;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 14px;
+    }
+
+</style>

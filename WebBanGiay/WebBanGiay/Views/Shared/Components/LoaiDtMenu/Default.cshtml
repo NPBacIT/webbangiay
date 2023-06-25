@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TLoaiDt>
+<div class="col-sm-12">
+	<div class="side border mb-1">
+		<h3>Style</h3>
+		<ul>
+			@foreach(var item in Model)
+			{
+				<li><a asp-controller="Home" asp-action="Style" asp-route-style="@item.MaDt">@item.TenLoai</a></li>
+				
+			}
+			
+		
+		</ul>
+	</div>
+</div>

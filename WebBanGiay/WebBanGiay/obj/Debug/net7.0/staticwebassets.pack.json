@@ -1,0 +1,1877 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebBanGiay.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebBanGiay.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\10ct1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\10ct1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\10ct2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\10ct2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\10ct3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\10ct3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\11ct1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\11ct1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\11ct2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\11ct2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\11ct3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\11ct3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\13ct1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\13ct1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\13ct2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\13ct2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\13ct3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\13ct3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\15ct1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\15ct1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\15ct2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\15ct2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\15ct3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\15ct3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\1ct1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\1ct1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\1ct2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\1ct2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\1ct3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\1ct3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\2ct1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\2ct1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\2ct2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\2ct2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\2ct3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\2ct3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\3ct1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\3ct1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\3ct2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\3ct2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\3ct3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\3ct3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\add.png",
+      "PackagePath": "staticwebassets\\ImageProducts\\add.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\ct71.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\ct71.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\ct72.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\ct72.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\ct73.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\ct73.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\ct74.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\ct74.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\da1..jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\da1..jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\da2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\da2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\da3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\da3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\da4.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\da4.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\da5.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\da5.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\da6.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\da6.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\spWC10019                  .jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\spWC10019                  .jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\spWC10024                  .jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\spWC10024                  .jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\spWC10024.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\spWC10024.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\spWC10025.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\spWC10025.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\spWC10025.png",
+      "PackagePath": "staticwebassets\\ImageProducts\\spWC10025.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt1.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt10.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt10.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt11.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt11.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt12.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt12.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt13.jpeg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt13.jpeg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt14.jpeg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt14.jpeg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt15.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt15.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt2.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt3.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt4.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt4.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt5.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt5.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt6.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt6.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt7.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt7.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt8.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt8.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\ImageProducts\\tt9.jpg",
+      "PackagePath": "staticwebassets\\ImageProducts\\tt9.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\.DS_Store",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\animate.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\css\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\css\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\css\\css\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\flexslider.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\style.css",
+      "PackagePath": "staticwebassets\\footwear\\css\\style.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\footwear\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\icomoon\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\icomoon\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\footwear\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\about.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\banner_sub1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\banner_sub1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\banner_sub2.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\banner_sub2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\banner_sub3.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\banner_sub3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\banner_sub4.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\banner_sub4.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\bannerheader1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\bannerheader1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\bannerheader2.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\bannerheader2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\bannerheader3.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\bannerheader3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\brand-1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\brand-2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\brand-3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\brand-4.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\brand-5.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\cover-img-1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\cover-img-1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\img_bg_1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\img_bg_1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\img_bg_2.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\img_bg_2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\img_bg_3.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\img_bg_3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-10.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-10.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-11.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-11.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-12.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-12.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-13.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-13.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-14.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-14.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-15.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-15.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-16.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-16.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-2.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-3.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-4.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-4.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-5.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-5.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-6.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-6.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-7.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-7.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-8.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-8.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\item-9.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\item-9.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\footwear\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\loc.png",
+      "PackagePath": "staticwebassets\\footwear\\images\\loc.png"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\men.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\person1.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\person1.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\person2.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\person2.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\person3.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\person3.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\poster-quang-cao-giay.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\poster-quang-cao-giay.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\footwear\\images\\women.jpg"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\aos.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\google_map.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\main.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\main.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\footwear\\js\\respond.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\sass\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\footwear\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\footwear\\sass\\style.scss"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\laptrinhWeb\\thucHanh\\New folder\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebBanGiay.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebBanGiay.props",
+      "PackagePath": "build\\WebBanGiay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebBanGiay.props",
+      "PackagePath": "buildMultiTargeting\\WebBanGiay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebBanGiay.props",
+      "PackagePath": "buildTransitive\\WebBanGiay.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

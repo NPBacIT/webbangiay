@@ -1,0 +1,21 @@
+﻿@model IEnumerable<TLoaiSp>
+<div class="col-sm-12">
+	<div class="side border mb-1">
+		<h3>Type Products</h3>
+		<ul>
+			@foreach(var item in Model)
+			{
+				<li><a asp-controller="Home" asp-action="TypeProduct" asp-route-maloai="@item.MaLoai">@item.Loai</a></li>
+				
+			}
+			
+		
+		</ul>
+	</div>
+</div>
+<style>
+	ul li a:hover{
+		color: #88C8BC;
+
+	}
+</style>

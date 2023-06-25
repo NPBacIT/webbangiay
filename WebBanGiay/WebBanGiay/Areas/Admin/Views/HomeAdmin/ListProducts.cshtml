@@ -1,0 +1,130 @@
+﻿
+@{
+    ViewData["Title"] = "ListProducts";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@using WebBanGiay.Models
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TDanhMucSp>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<h1>Danh Mục Sản Phẩm</h1>
+
+<p>
+    <a asp-action="CreateProduct">Create New</a>
+</p>
+
+<table class="table">
+    <thead class="table-danger">
+        <tr>
+            <th>
+               Product Name
+               
+            </th>
+            <th>
+                Product weight
+              
+            </th>
+          
+          
+            <th>
+                warranty period
+               
+            </th>
+          
+          
+            <th>
+                Product Avatar
+               
+            </th>
+         
+            <th>
+
+               Price
+            </th>
+         
+           
+           
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 1;
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            string cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            else
+            {
+            }
+              <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CanNang)
+            </td>
+          
+        
+            <td>
+                @Html.DisplayFor(modelItem => item.ThoiGianBaoHanh)
+            </td>
+
+
+                <td>
+                    <img src="../../ImageProducts/@item.AnhDaiDien">
+                </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaLonNhat)
+            </td>
+         
+            
+          
+            <td>
+                    <a asp-action="EditProduct" asp-route-ma="@item.MaSp">Edit</a> |
+                <a asp-action="DetailProduct" asp-route-ma="@item.MaSp">Details</a> |
+                <a asp-action="DeleteProduct" asp-route-maSp="@item.MaSp">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="product__pagination">
+
+    @Html.PagedListPager(Model,page=>Url.Action("ListProducts",new{page=page}))
+</div>
+<style>
+    .product__pagination .pagination li {
+        margin-right: 10px;
+    }
+
+    .product__pagination .pagination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top:20px;
+    }
+
+    .product__pagination li.active {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid #000;
+        background: #7fad39;
+        border-color: #7fad39;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 14px;
+    }
+
+</style>

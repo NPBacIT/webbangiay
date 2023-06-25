@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "TypeProduct";
+    Layout = "~/Views/Shared/_LayoutFootWear.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDanhMucSp>
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers;
+
+
+<style>
+	.ct-2{
+		padding:0px;
+
+	}
+
+	.page_index{
+		margin-top:20px;
+	    margin-left:auto;
+		margin-right:auto;
+		
+		
+
+		
+	}
+
+</style>
+	@foreach (var item in Model)
+					{
+						<div class="col-lg-4 mb-4 text-center">
+							<div class="product-entry border">
+								<a href="#" class="prod-img">
+									<img src="../ImageProducts/@item.AnhDaiDien" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								</a>
+								<div class="desc">
+				                 <h2><a asp-controller="Home" asp-action="ProductDetail" asp-route-masp="@item.MaSp">@item.TenSp</a></h2>
+									<span class="price">@item.GiaLonNhat VND</span>
+								</div>
+							</div>
+						</div>
+					}
+<div class="row page_index">
+	<div class="col-md-12 text-center">
+		<div class="block-27">
+			<ul>
+
+				@Html.PagedListPager(Model,page=>Url.Action("TypeProduct",new{page=page,maloai=@ViewBag.maloai}))
+
+			</ul>
+		</div>
+	</div>
+</div>
